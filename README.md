@@ -26,10 +26,14 @@ Community and Support
 
 :hammer_and_wrench: Installation
 Clone the repository and navigate to the root directory. 
->> Run: flutter run 
+
+> Run: flutter run 
+
 to launch the app on your emulator or connected device.
 
-or Run: flutter build apk or ipa
+or 
+> Run: flutter build apk or ipa
+
 to generate source file
 
 :exclamation: Requirements
