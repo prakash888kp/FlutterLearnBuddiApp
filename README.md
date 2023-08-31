@@ -25,7 +25,12 @@ Real-time database updates for a smooth user experience.
 Community and Support
 
 :hammer_and_wrench: Installation
+
 Clone the repository and navigate to the root directory. 
+
+> run flutter pub get
+
+to get all dependencies downloaded
 
 > Run: flutter run 
 
