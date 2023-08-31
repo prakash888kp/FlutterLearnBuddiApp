@@ -42,6 +42,9 @@ or
 to generate source file
 
 :exclamation: Requirements
+
 Flutter SDK
+
 Firebase Account
+
 Android/iOS Emulator or physical device
