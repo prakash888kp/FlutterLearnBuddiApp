@@ -26,37 +26,42 @@ Community and Support
 
 :hammer_and_wrench: Installation
 Clone the repository and navigate to the root directory. 
->> Run: flutter run 
-to launch the app on your emulator or connected device.
+> Run: flutter run
+ 
+to launch the app on your emulator or connected device. or 
 
-or Run: flutter build apk or ipa
+>Run: flutter build apk or ipa
+
 to generate source file
 
 :exclamation: Requirements
+
 Flutter SDK
+
 Firebase Account
+
 Android/iOS Emulator or physical device
 
 📸 Screenshots
 
-![Admin_Profile](/Screeenshots/Admin_Profile.jpg)
+![HomeScreen](/Screeenshots/HomeScreen.jpg?raw=true "HomeScreen")
 
-![IntroScreen](/Screeenshots/IntroScreen.png)
+![IntroScreen](/Screeenshots/IntroScreen.png?raw=true "IntroScreen")
 
-![Admin_DashBoard](/Screeenshots/Admin_DashBoard.jpg)
+![ChatBotScreen](/Screeenshots/ChatBotScreen.jpg?raw=true "ChatBotScreen")
 
-![ChatBotScreen](/Screeenshots/ChatBotScreen.jpg)
+![SignUp Screen](/Screeenshots/SignUp_Screen.png?raw=true "SignUp_Screen")
 
-![Admin_ChatBot1](/Screeenshots/Admin_ChatBot1.jpg)
+![ResetPassword](/Screeenshots/ResetPassword.jpg?raw=true "ResetPassword")
 
-![ResetPassword](/Screeenshots/ResetPassword.jpg)
+![SearchScreen](/Screeenshots/SearchScreen.jpg?raw=true "SearchScreen")
 
-![SignUp Screen](/Screeenshots/SignUp-Screen.png)
+![Admin_DashBoard](/Screeenshots/Admin_DashBoard.jpg?raw=true "Admin_DashBoard")
 
-![Admin_ChatBot2](/Screeenshots/Admin_ChatBot2.jpg)
+![Admin_ChatBot1](/Screeenshots/Admin_ChatBot1.jpg?raw=true "Admin_ChatBot1")
 
-![SearchScreen](/Screeenshots/SearchScreen.jpg)
+![Admin_Profile](/Screeenshots/Admin_Profile.jpg?raw=true "Admin_Profile")
 
-![Admin_LoginScreen](/Screeenshots/Admin_LoginScreen.png)
+![Admin_ChatBot2](/Screeenshots/Admin_ChatBot2.jpg?raw=true "Admin_ChatBot2")
 
-![HomeScreen](/Screeenshots/HomeScreen.jpg)
+![Admin_LoginScreen](/Screeenshots/Admin_LoginScreen.png?raw=true "Admin_LoginScreen")
