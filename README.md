@@ -39,17 +39,24 @@ Android/iOS Emulator or physical device
 
 📸 Screenshots
 
-/Screeenshots/Admin_Profile.jpg
-/Screeenshots/IntroScreen.png
-/Screeenshots/Admin_DashBoard.jpg
-/Screeenshots/ChatBotScreen.jpg
-/Screeenshots/ProfileScreen.jpg
-/Screeenshots/Admin_ChatBot1.jpg
-/Screeenshots/ResetPassword.jpg
-/Screeenshots/SignUp Screen.png
-/Screeenshots/Admin_ChatBot2.jpg
-/Screeenshots/App_Logo.png
-/Screeenshots/SearchScreen.jpg
-/Screeenshots/Admin_LoginScreen.png
-/Screeenshots/HomeScreen.jpg
+![Admin_Profile](/Screeenshots/Admin_Profile.jpg)
 
+![IntroScreen](/Screeenshots/IntroScreen.png)
+
+![Admin_DashBoard](/Screeenshots/Admin_DashBoard.jpg)
+
+![ChatBotScreen](/Screeenshots/ChatBotScreen.jpg)
+
+![Admin_ChatBot1](/Screeenshots/Admin_ChatBot1.jpg)
+
+![ResetPassword](/Screeenshots/ResetPassword.jpg)
+
+![SignUp Screen](/Screeenshots/SignUp-Screen.png)
+
+![Admin_ChatBot2](/Screeenshots/Admin_ChatBot2.jpg)
+
+![SearchScreen](/Screeenshots/SearchScreen.jpg)
+
+![Admin_LoginScreen](/Screeenshots/Admin_LoginScreen.png)
+
+![HomeScreen](/Screeenshots/HomeScreen.jpg)
