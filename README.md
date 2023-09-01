@@ -1,50 +1,16 @@
-# LearnBuddi: Your All-in-One Educational Companion Flutter App
+# learnBuddi
 
-About
-LearnBuddi is a cutting-edge educational platform built using Flutter and Firebase, designed to streamline the learning experience for both students and educators.
+A new Flutter project.
 
-:books: Features
-Admin Screen for Course Management
+## Getting Started
 
-Educators can effortlessly upload and manage courses.
-Real-time updates for course contents.
-Monitor student progress from a unified dashboard.
-Personalized Learning Experience
+This project is a starting point for a Flutter application.
 
-Single app with both Admin and Student access
+A few resources to get you started if this is your first Flutter project:
 
-Wide range of courses tailored for individual needs.
-Progress tracking to keep you motivated.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Instant, personalized support for course selection, technical issues, and more.
-Real-time assistance by integrated Admin Chat.
-Firebase Integration
-
-Experience blazing fast load times and secure data storage.
-Real-time database updates for a smooth user experience.
-Community and Support
-
-:hammer_and_wrench: Installation
-
-Clone the repository and navigate to the root directory. 
-
-> run flutter pub get
-
-to get all dependencies downloaded
-
-> Run: flutter run 
-
-to launch the app on your emulator or connected device.
-
-or 
-> Run: flutter build apk or ipa
-
-to generate source file
-
-:exclamation: Requirements
-
-Flutter SDK
-
-Firebase Account
-
-Android/iOS Emulator or physical device
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
