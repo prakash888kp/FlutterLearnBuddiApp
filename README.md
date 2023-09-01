@@ -39,4 +39,17 @@ Android/iOS Emulator or physical device
 
 📸 Screenshots
 
+/Screeenshots/Admin_Profile.jpg
+/Screeenshots/IntroScreen.png
+/Screeenshots/Admin_DashBoard.jpg
+/Screeenshots/ChatBotScreen.jpg
+/Screeenshots/ProfileScreen.jpg
+/Screeenshots/Admin_ChatBot1.jpg
+/Screeenshots/ResetPassword.jpg
+/Screeenshots/SignUp Screen.png
+/Screeenshots/Admin_ChatBot2.jpg
+/Screeenshots/App_Logo.png
+/Screeenshots/SearchScreen.jpg
+/Screeenshots/Admin_LoginScreen.png
+/Screeenshots/HomeScreen.jpg
 
